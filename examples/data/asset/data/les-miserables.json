@@ -2,16 +2,16 @@
     "nodes": [
       {
         "id": "0",
-        "name": "Myriel",
-        "symbolSize": 19.12381,
+        "name": "口红",
+        "symbolSize": 29.12381,
         "x": -266.82776,
         "y": 299.6904,
-        "value": 28.685715,
+        "value": 48.685715,
         "category": 0
       },
       {
         "id": "1",
-        "name": "Napoleon",
+        "name": "香水",
         "symbolSize": 2.6666666666666665,
         "x": -418.08344,
         "y": 446.8853,
@@ -38,56 +38,56 @@
       },
       {
         "id": "4",
-        "name": "CountessDeLo",
-        "symbolSize": 2.6666666666666665,
+        "name": "面膜",
+        "symbolSize": 12.6666666666666665,
         "x": -379.30386,
         "y": 429.06424,
-        "value": 4,
+        "value": 14,
         "category": 0
       },
       {
         "id": "5",
-        "name": "Geborand",
-        "symbolSize": 2.6666666666666665,
+        "name": "腮红",
+        "symbolSize": 8.6666666666666665,
         "x": -417.26337,
         "y": 406.03506,
-        "value": 4,
+        "value": 14,
         "category": 0
       },
       {
         "id": "6",
-        "name": "Champtercier",
-        "symbolSize": 2.6666666666666665,
+        "name": "眼影",
+        "symbolSize": 8.6666666666666665,
         "x": -332.6012,
         "y": 485.16974,
-        "value": 4,
+        "value": 24,
         "category": 0
       },
       {
         "id": "7",
-        "name": "Cravatte",
-        "symbolSize": 2.6666666666666665,
+        "name": "睫毛膏",
+        "symbolSize": 4.6666666666666665,
         "x": -382.69568,
         "y": 475.09113,
-        "value": 4,
+        "value": 8,
         "category": 0
       },
       {
         "id": "8",
-        "name": "Count",
-        "symbolSize": 2.6666666666666665,
+        "name": "高光",
+        "symbolSize": 6.6666666666666665,
         "x": -320.384,
         "y": 387.17325,
-        "value": 4,
+        "value": 14,
         "category": 0
       },
       {
         "id": "9",
-        "name": "OldMan",
-        "symbolSize": 2.6666666666666665,
+        "name": "眼线",
+        "symbolSize": 4.6666666666666665,
         "x": -344.39832,
         "y": 451.16772,
-        "value": 4,
+        "value": 8,
         "category": 0
       },
       {
@@ -1714,7 +1714,7 @@
     ],
     "categories": [
       {
-        "name": "类目0"
+        "name": "彩妆"
       },
       {
         "name": "类目1"
